@@ -18,8 +18,8 @@ These program are written in codeblocks ide for windows. These programs are not 
 
 # List of programs
 - [Hello World!](https://github.com/asrafulsharker/c-program-for-beginners-example/blob/main/HelloWorld.c)
-- [Area and circumference](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/AreaAndCircumference.c)
-- [Basic Arithmatic](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/BasicArithmatic.c)
+- [Area and circumference](https://github.com/asrafulsharker/c-program-for-beginners-example/blob/main/AreaAndCircumference.c)
+- [Basic Arithmatic](https://github.com/asrafulsharker/c-program-for-beginners-example/blob/main/BasicArithmatic.c)
 - [Fahrenheit To Celcius](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/FahrenheitToCelciusConv.c)
 - [Lowercase To Uppercase](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/LowercaseToUppercase.c)
 - [Uppercase To Lowercase](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/UppercaseToLowercase.c)
