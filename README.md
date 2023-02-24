@@ -8,7 +8,7 @@ These program are written in codeblocks ide for windows. These programs are not 
 
 - Only programs written in c language will be merged.
 - Beautify/Format your code before making a PR. Poorly stuctured code with inconsistent spacing and bad variable name will not be merged. 
-- Use this tool to beautify your code : https://codebeautify.org/c-formatter-beautifier
+- Use this tool to beautify your code 
 - Make sure your program works after beautifying it.
 - #include< stdio.h > is wrong and you must remove whitespaces. #include<stdio.h> is correct.
 - Please check your spellings before making a PR
@@ -65,20 +65,20 @@ These program are written in codeblocks ide for windows. These programs are not 
 - [Factorial](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/Factorial.c)
 - [Get String Length](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/StringLength.c)
 - [Decimal To Binary](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/DecimalToBinary.c)
-- [Haystack and Needle (SubString)](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/HaystackAndNeedle_SubString.c)
-- [Pointers in C](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/Pointers.c)
-- [Binary Search](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/BinarySearch.c)
-- [Recursion](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/Recursion.c)
-- [Segmentation Fault or Bus Error Demo](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/SegmentationFaultorBusErrorDemo.c)
-- [Structure](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/Structure.c)
-- [Swapping 2 Numbers Without a Third Variable or ^](https://github.com/geetanjaliaich/beginners-C-program-examples/blob/FactorialEratosthenes/SwapIntegersWithout3rdVariable(Arithmatic).c)
-- [Print 100 Prime numbers using Seive of Eratosthenes](https://github.com/geetanjaliaich/beginners-C-program-examples/blob/FactorialEratosthenes/PrimeByEratosthenes.c)
-- [Palindrome Number](https://github.com/geetanjaliaich/beginners-C-program-examples/blob/FactorialEratosthenes/PalindromeNumber.c)
-- [Temperature conversion](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/AllTempScalesConv.c)
-- [Alphabet triangle](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/alphabetTriangle.cpp)
-- [Armstrong Number](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/ArmstrongNumber.c)
-- [Background Thread Sorter](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/BackgroundThreadSorter.c)
-- [Basic Game](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/BasicGame.c)
+- [Haystack and Needle (SubString)](https://github.com/asrafulsharker/c-program-for-beginners-example/blob/main/HaystackAndNeedle_SubString.c)
+- [Pointers in C](https://github.com/asrafulsharker/c-program-for-beginners-example/blob/main/Pointers.c)
+- [Binary Search](https://github.com/gasrafulsharker/c-program-for-beginners-example/blob/main/BinarySearch.c)
+- [Recursion](https://github.com/asrafulsharker/c-program-for-beginners-example/blob/main/Recursion.c)
+- [Segmentation Fault or Bus Error Demo](https://github.com/asrafulsharker/c-program-for-beginners-example/blob/main/SegmentationFaultorBusErrorDemo.c)
+- [Structure](https://github.com/asrafulsharker/c-program-for-beginners-example/blob/main/Structure.c)
+- [Swapping 2 Numbers Without a Third Variable or ^](https://github.com/asrafulsharker/c-program-for-beginners-example/blob/main/FactorialEratosthenes/SwapIntegersWithout3rdVariable(Arithmatic).c)
+- [Print 100 Prime numbers using Seive of Eratosthenes](https://github.com/asrafulsharker/c-program-for-beginners-example/blob/main/FactorialEratosthenes/PrimeByEratosthenes.c)
+- [Palindrome Number](https://github.com/asrafulsharker/c-program-for-beginners-example/blob/main/PalindromeNumber.c)
+- [Temperature conversion](https://github.com/asrafulsharker/c-program-for-beginners-example/blob/main/AllTempScalesConv.c)
+- [Alphabet triangle](https://github.com/asrafulsharker/c-program-for-beginners-example/blob/main/alphabetTriangle.cpp)
+- [Armstrong Number](https://github.com/asrafulsharker/c-program-for-beginners-example/blob/main/ArmstrongNumber.c)
+- [Background Thread Sorter](https://github.com/asrafulsharker/c-program-for-beginners-example/blob/main/BackgroundThreadSorter.c)
+- [Basic Game](https://github.com/asrafulsharker/c-program-for-beginners-example/blob/main/BasicGame.c)
 - [Celsius to Kelvin](https://github.com/asrafulsharker/c-program-for-beginners-example/blob/main/CelciusToKelvinConv.c)
 - [Calculator](https://github.com/asrafulsharker/c-program-for-beginners-example/blob/main/combine_calculator.c)
 - [Common elements in two array](https://github.com/asrafulsharker/c-program-for-beginners-example/blob/main/CommonElementsInTwoArrays.c)
