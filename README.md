@@ -1,5 +1,5 @@
 
-[Visit my website to know more about me : [https://asrafulme.netlify.app/] (https://asrafulme.netlify.app/)
+[Visit my website to know more about me : (https://asrafulme.netlify.app/)
 # Beginners C Program Examples
 ## :octocat: Fork and :eight_pointed_black_star: star this repo
 Simple, short and sweet  beginners friendly C language programs 
@@ -17,7 +17,7 @@ These program are written in codeblocks ide for windows. These programs are not 
 ![alt text](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/Screenshot.PNG)
 
 # List of programs
-- [Hello World!](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/HelloWorld.c)
+- [Hello World!](https://github.com/asrafulsharker/c-program-for-beginners-example/blob/main/HelloWorld.c)
 - [Area and circumference](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/AreaAndCircumference.c)
 - [Basic Arithmatic](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/BasicArithmatic.c)
 - [Fahrenheit To Celcius](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/FahrenheitToCelciusConv.c)
